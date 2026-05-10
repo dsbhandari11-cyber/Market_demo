@@ -188,3 +188,4 @@ Screener_1/
 Able to understand the marking analysis
 >>>>>>> ab08e6762186c0b24c62d6340e5295b2c36ec5aa
 "# Market_demo" 
+"# trade_demo" 
